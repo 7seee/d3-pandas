@@ -1,0 +1,7 @@
+pandas.env
+
+d3-pandas/src/data/*
+!d3-pandas/src/data/test.csv
+d3-pandas/src/output/*
+!d3-pandas/src/output/.gitkeep
+*.png
